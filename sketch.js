@@ -36,7 +36,7 @@ function setup() {
 
 
 function draw() {
-  background(120)
+  background(255)
   stroke("black");
   fill("black");
   textSize(20);
